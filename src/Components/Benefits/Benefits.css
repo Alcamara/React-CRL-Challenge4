@@ -4,24 +4,25 @@
 
 .benefits--container {
   width: 90%;
+  max-width: 1296px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-  gap: 1;
-  max-width: 1152px;
+  gap: 0.5;
 }
 
 .benefits__item {
   text-align: center;
-  width: 35%;
+  width: 30%;
 }
 
 h3.item__title {
   color: #87629a;
-  font-size: 2rem;
+  font-size: 2.25rem;
   margin-bottom: 0.5em;
 }
 
 .benefits__item p {
   font-size: 1.3rem;
+  line-height: 1.5;
 }
