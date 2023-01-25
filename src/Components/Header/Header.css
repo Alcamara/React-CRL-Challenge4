@@ -12,13 +12,29 @@
   color: white;
   font-size: 1rem;
   width: 60%;
-  max-width: 722px;
+  max-width: 667px;
 }
 
 .Header--hero h1 {
   font-size: 3rem;
+  margin-bottom: 0.5em;
 }
 
 .Header--hero p {
   font-size: 1.3rem;
+  line-height: 1.5;
+  margin-bottom: 2.1em;
+}
+
+div.hero--btn {
+  color: black;
+  background-color: #38cfd9;
+  font-size: 2rem;
+  padding: 0.5em 1.2em;
+  border-radius: 3.15em;
+  display: inline-block;
+}
+
+div.hero--btn:hover {
+  background-color: #279098;
 }

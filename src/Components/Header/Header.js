@@ -11,7 +11,7 @@ export function Header() {
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam.
           </p>
-          <div className="hero--btn">I Want To Learm </div>
+          <div className="hero--btn">I Want To Learn </div>
         </div>
       </div>
     </header>
