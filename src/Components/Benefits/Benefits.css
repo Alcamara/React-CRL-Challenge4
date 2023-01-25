@@ -1,7 +1,27 @@
 .benefits {
+  padding: 100px 0;
 }
 
 .benefits--container {
   width: 80%;
   margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 1;
+  max-width: 1152px;
+}
+
+.benefits__item {
+  text-align: center;
+  width: 35%;
+}
+
+h3.item__title {
+  color: #87629a;
+  font-size: 2rem;
+  margin-bottom: 0.5em;
+}
+
+.benefits__item p {
+  font-size: 1.3rem;
 }

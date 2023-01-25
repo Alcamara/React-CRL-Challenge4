@@ -5,7 +5,7 @@ export function Benefits() {
     <section className="benefits">
       <div className="benefits--container">
         <div className="benefits__item">
-          <h3>Cheap</h3>
+          <h3 className="item__title">Cheap</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -13,7 +13,7 @@ export function Benefits() {
           </p>
         </div>
         <div className="benefits__item">
-          <h3>Quick</h3>
+          <h3 className="item__title">Quick</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -21,7 +21,7 @@ export function Benefits() {
           </p>
         </div>
         <div className="benefits__item">
-          <h3>Quality</h3>
+          <h3 className="item__title">Quality</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
