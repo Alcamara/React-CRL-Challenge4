@@ -1,12 +1,13 @@
 .more-benefits {
   color: white;
   background-color: #136c72;
-  padding: 100px;
+  padding: 100px 0;
 }
 
 .more-benfits--container {
   text-align: center;
   width: 90%;
+  max-width: 1296px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
