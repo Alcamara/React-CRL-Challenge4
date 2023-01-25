@@ -1,0 +1,24 @@
+.Header {
+  background-color: #23424a;
+  padding: 200px 0;
+}
+
+.Header--container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.Header--hero {
+  color: white;
+  font-size: 1rem;
+  width: 60%;
+  max-width: 722px;
+}
+
+.Header--hero h1 {
+  font-size: 3rem;
+}
+
+.Header--hero p {
+  font-size: 1.3rem;
+}
